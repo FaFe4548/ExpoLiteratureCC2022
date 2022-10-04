@@ -1,0 +1,182 @@
+
+.mono{
+    background-color: rgba(124, 24, 7, 0.637); 
+    width: 100%;
+
+}
+body{
+    margin: 0;
+    padding: 0;
+}
+.pez{
+    height: 200px;
+    width: 200px;
+    border-radius: 200px;
+    border-style: dashed;
+    margin-top: 10px;
+    
+}
+
+p{
+    margin: 0%;
+    width: fit-content;
+}
+.perro{
+    display: inline-block;
+    margin-left: 570px;
+    font-size: 20px;
+    border-style: dashed;
+}
+.gato{
+    display: inline-block;
+    margin-left: 5px;
+    font-size: 20px;
+    border-style: dashed;
+    color: black;
+
+}
+.carne{
+    display: inline-block;
+    margin-left: 5px;
+    font-size: 20px;
+    border-style: dashed;
+    color: black;
+}
+
+.perro:hover{
+    cursor: pointer;
+    color: white;
+}
+.gato:hover{
+    cursor: pointer;
+    color: white;
+}
+.carne:hover{
+    cursor: pointer;
+    color: white;
+}
+
+.paisaje{
+    width: 100%;
+    height: 435px;
+}
+
+.tortuga{
+    text-align: center;
+    width: 100%;
+    font-size: 35px;
+    height: 75px;
+    padding: 10px;
+    margin: 5px;
+    background-color: rgb(99, 6, 6);
+    border-style:dashed;
+}
+
+.div1{
+display: inline-block;
+margin-top: 100px;
+}
+
+.div2{
+display: inline-block;
+margin-top: 100px;
+margin-bottom: 100px
+}
+
+.a{
+width: 200px;
+height: 200px;
+margin-left: 100px;
+border-radius: 200px;
+}
+
+.b{ 
+width: 200px;
+height: 200px; 
+margin-left: 100px;
+border-radius: 200px;
+}
+
+.c{
+width: 200px;
+height: 200px;
+margin-left: 100px;
+border-radius: 200px;
+}
+
+.d{
+width: 200px;
+height: 200px;
+margin-left: 100px;
+border-radius: 200px;
+}
+
+.e{
+width: 200px;
+height: 200px;
+margin-left: 100px;
+border-radius: 200px;
+}
+
+.f{
+width: 200px;
+height: 200px;
+margin-left: 100px;
+border-radius: 200px;
+}
+
+.a:hover{
+    transform: scale(2);
+    transition: 0.5s;
+    cursor: pointer;
+}
+
+.b:hover{
+    transform: scale(2);
+    transition: 0.5s;
+    cursor: pointer;
+}
+
+.c:hover{
+    transform: scale(2);
+    transition: 0.5s;
+    cursor: pointer;
+}
+
+.d:hover{
+    transform: scale(2);
+    transition: 0.5s;
+    cursor: pointer;
+}
+
+.e:hover{
+    transform: scale(2);
+    transition: 0.5s;
+    cursor: pointer;
+}
+
+.f:hover{
+    transform: scale(2);
+    transition: 0.5s;
+    cursor: pointer;
+}
+
+.pintar{
+background-color:darkgoldenrod;
+border-style: dashed;
+text-align: center;
+}
+.pintar2{
+    background-color:darkgoldenrod;
+    border-style: dashed;
+    text-align: center;
+    }
+    .cuerpo1{
+    background-color: rgb(27, 27, 27);
+    }
+    .cuerpo2{
+        background-color: rgb(27, 27, 27);
+    }
+    .cuerpo3{
+        background-color: rgb(27, 27, 27)
+    }
